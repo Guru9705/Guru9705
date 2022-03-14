@@ -1,4 +1,5 @@
 - 👋 Hi, I’m Gursimar Hora
+- I'm a software deveoper in TCS.
 - 👀 I’m interested in learning new software technologies.
 - 🌱 I’m currently learning full stack development.
 - 📫 How to reach me gursimar97hora@gmail.com
