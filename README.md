@@ -21,7 +21,7 @@ a lasting impact on user experience.
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saurabh-kushwaha" alt="gursimar" /></a> </p>
 - :seedling: I’m currently learning **Backend development**
 - :dancers: I’m looking to collaborate on **MERN Stack**
-- :male-technologist: All of my projects are available at [https://saurabh-kushwaha.github.io/portfolio/](https://saurabh-kushwaha.github.io/portfolio/)
+- :male-technologist: All of my projects are available at [https://gursimar-hora.vercel.app/](https://gursimar-hora.vercel.app/)
 - :speech_bubble: Ask me about **MERN Stack**
 - :mailbox: How to reach me **gursimar97hora@gmail.com**
 <!-- - :page_facing_up: Know about my experiences [https://drive.google.com/file/d/1RavTEWw9vdQpB9Vi4R12x-TmYasNnhI9/view?usp=sharing](https://drive.google.com/file/d/1RavTEWw9vdQpB9Vi4R12x-TmYasNnhI9/view?usp=sharing) -->
